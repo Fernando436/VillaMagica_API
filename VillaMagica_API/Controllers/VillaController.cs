@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.HttpLogging;
 using Microsoft.AspNetCore.Mvc;
 using VillaMagica_API.Datos;
 using VillaMagica_API.Modelos;
@@ -96,6 +97,25 @@ namespace VillaMagica_API.Controllers
 
         }
 
+
+        [HttpPut("{id}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public IActionResult UpdateVilla(int id,[FromBody] VillaDTO villa) 
+        {
+            if (villa == null || id != villa.Id)
+            {
+                return BadRequest();
+
+            }
+            var vila = VillaStore.villalist.FirstOrDefault(x => x.Id == id);
+            vila.Nombre = villa.Nombre;
+            vila.Ocupantes = villa.Ocupantes;
+            vila.MetrosCuadrados = villa.MetrosCuadrados;
+
+            return NoContent();
+
+        }
 
 
 
