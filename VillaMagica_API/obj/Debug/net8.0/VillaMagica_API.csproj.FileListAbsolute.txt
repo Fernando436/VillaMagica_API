@@ -30,3 +30,4 @@ C:\Users\Monto\source\repos\API RESTFULL\VillaMagica_API\VillaMagica_API\obj\Deb
 C:\Users\Monto\source\repos\API RESTFULL\VillaMagica_API\VillaMagica_API\obj\Debug\net8.0\VillaMagica_API.pdb
 C:\Users\Monto\source\repos\API RESTFULL\VillaMagica_API\VillaMagica_API\obj\Debug\net8.0\VillaMagica_API.genruntimeconfig.cache
 C:\Users\Monto\source\repos\API RESTFULL\VillaMagica_API\VillaMagica_API\obj\Debug\net8.0\ref\VillaMagica_API.dll
+C:\Users\Monto\source\repos\API RESTFULL\VillaMagica_API\VillaMagica_API\obj\Debug\net8.0\VillaMagica_API.sourcelink.json

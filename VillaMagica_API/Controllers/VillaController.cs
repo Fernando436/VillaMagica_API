@@ -101,17 +101,17 @@ namespace VillaMagica_API.Controllers
         [HttpPut("{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
-        public IActionResult UpdateVilla(int id,[FromBody] VillaDTO villa) 
+        public IActionResult UpdateVilla(int id,[FromBody] VillaDTO villaDTO) 
         {
-            if (villa == null || id != villa.Id)
+            if (villaDTO == null || id != villaDTO.Id)
             {
                 return BadRequest();
 
             }
-            var vila = VillaStore.villalist.FirstOrDefault(x => x.Id == id);
-            vila.Nombre = villa.Nombre;
-            vila.Ocupantes = villa.Ocupantes;
-            vila.MetrosCuadrados = villa.MetrosCuadrados;
+
+            VillaStore.villalist.FirstOrDefault(x => x.Id == id).Nombre = villaDTO.Nombre;
+            VillaStore.villalist.FirstOrDefault(x => x.Id == id).Ocupantes = villaDTO.Ocupantes;
+            VillaStore.villalist.FirstOrDefault(x => x.Id == id).MetrosCuadrados = villaDTO.MetrosCuadrados;
 
             return NoContent();
 
