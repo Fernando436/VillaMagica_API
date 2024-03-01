@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|c:\\users\\monto\\source\\repos\\api restfull\\villamagica_api\\villamagica_api\\migrations\\20240229224344_alimentartablavilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|solutionrelative:villamagica_api\\migrations\\20240229224344_alimentartablavilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|c:\\users\\monto\\source\\repos\\api restfull\\villamagica_api\\villamagica_api\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|solutionrelative:villamagica_api\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\villamagica_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|solutionrelative:villamagica_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\villamagica_api\\modelos\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|solutionrelative:villamagica_api\\modelos\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\villamagica_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|solutionrelative:villamagica_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\villamagica_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DA876C3-679D-4A2A-877E-ECA8DDB4767D}|VillaMagica_API\\VillaMagica_API.csproj|solutionrelative:villamagica_api\\controllers\\villacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,45 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240229224344_AlimentarTablaVilla.cs",
-              "DocumentMoniker": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\VillaMagica_API\\Migrations\\20240229224344_AlimentarTablaVilla.cs",
-              "RelativeDocumentMoniker": "VillaMagica_API\\Migrations\\20240229224344_AlimentarTablaVilla.cs",
-              "ToolTip": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\VillaMagica_API\\Migrations\\20240229224344_AlimentarTablaVilla.cs",
-              "RelativeToolTip": "VillaMagica_API\\Migrations\\20240229224344_AlimentarTablaVilla.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T22:43:45.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\VillaMagica_API\\appsettings.json",
-              "RelativeDocumentMoniker": "VillaMagica_API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\VillaMagica_API\\appsettings.json",
-              "RelativeToolTip": "VillaMagica_API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-29T21:48:25.53Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\VillaMagica_API\\Datos\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "VillaMagica_API\\Datos\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\VillaMagica_API\\Datos\\ApplicationDbContext.cs",
-              "RelativeToolTip": "VillaMagica_API\\Datos\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAADwvxYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T18:40:33.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Villa.cs",
               "DocumentMoniker": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\VillaMagica_API\\Modelos\\Villa.cs",
               "RelativeDocumentMoniker": "VillaMagica_API\\Modelos\\Villa.cs",
@@ -101,15 +51,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "VillaController.cs",
               "DocumentMoniker": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\VillaMagica_API\\Controllers\\VillaController.cs",
               "RelativeDocumentMoniker": "VillaMagica_API\\Controllers\\VillaController.cs",
               "ToolTip": "C:\\Users\\Monto\\source\\repos\\API RESTFULL\\VillaMagica_API\\VillaMagica_API\\Controllers\\VillaController.cs",
               "RelativeToolTip": "VillaMagica_API\\Controllers\\VillaController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCYAAAAAAAAA",
+              "ViewState": "AQIAABwBAAAAAAAAAAAiwCMBAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T20:22:28.625Z"
+              "WhenOpened": "2024-02-27T20:22:28.625Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -113,7 +113,7 @@
         "IsRequired": true
       },
       {
-        "Name": "villaDTO",
+        "Name": "villa",
         "Type": "VillaMagica_API.Modelos.DTO.VillaDTO",
         "IsRequired": true
       }
